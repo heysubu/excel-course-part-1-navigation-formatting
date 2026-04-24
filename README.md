@@ -45,7 +45,7 @@ This file is a **hands-on reference workbook** — every topic has a real exampl
 
 | # | 🔗 Topic | 📂 Category | ⚡ Quick Summary |
 |---|---|---|---|
-| 01 | [🧭 Navigation Shortcuts](#01--navigation-shortcuts) | Navigation | 50 keyboard shortcuts to move faster |
+| 01 | [🧭 Navigation Shortcuts](##01--navigation-shortcuts) | Navigation | 50 keyboard shortcuts to move faster |
 | 02 | [🎨 Formatting Tips](#02--formatting-tips) | Formatting | 19 professional presentation tips |
 | 03 | [📅 Dates](#03--dates-formulas) | Dates | 17 date formulas for finance work |
 | 04 | [📆 Workday](#04--workday-formula) | Dates | Calculate working days & deadlines |
@@ -58,7 +58,7 @@ This file is a **hands-on reference workbook** — every topic has a real exampl
 | 11 | [🔃 Sorting](#11--sorting) | Data | Sort data by multiple columns |
 | 12 | [🧹 Remove Duplicate Values](#12--remove-duplicate-values) | Data | Find and remove duplicate records |
 | 13 | [📐 Text to Columns](#13--text-to-columns) | Data | Split combined data into columns |
-| 14 | [🎨 Conditional Formatting](#14--conditional-formatting) | Formatting | Highlight cells based on their values |
+| 14 | [🎨 Conditional Formatting](##14--conditional-formatting) | Formatting | Highlight cells based on their values |
 
 ---
 
