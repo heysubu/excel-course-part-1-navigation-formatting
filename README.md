@@ -547,9 +547,8 @@ UPPER/LOWER/PROPER · TRANSPOSE · SUMIF · COUNTIF · AVERAGEIF · SUMIFS · CO
 
 ## 📞 Contact
 
-- 🐙 **GitHub:** [heysubu](https://github.com/heysubu)
-- 📧 **Email:** suubhamghadge@gmail.com
-- 💼 **LinkedIn:** [Subham Ghadge](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ---
 
